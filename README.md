@@ -3,7 +3,7 @@
 This Repository is intended to practice how to work with Entity Framework Core. This project will use a strict Layered Architecture and RESTful API endpoints.
 
 # Shown now
-- Only the Layered Architecture, to an extent
+- Only the Layered Architecture, to an extent. It doesn't even work yet.
 
 ## Future expected work
 - Show full app logic using EF Core InMemoryDatabase
